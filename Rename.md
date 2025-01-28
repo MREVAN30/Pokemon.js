@@ -12,6 +12,12 @@
     <strong>Void End the Games</strong>. Versão: <strong>1.1</strong>.
   </p>
   
+<h2> inclua a biblioteca</h2>
+<code>
+     <script src="https://github.com/MREVAN30/Pokemon.js/blob/main/Pokemon.js"></script>
+
+</code>
+
   <h2>Funções</h2>
 
   <h3><code>Pikachu(texto, color)</code></h3>
