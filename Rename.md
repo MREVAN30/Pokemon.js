@@ -9,7 +9,7 @@
   <h1>Biblioteca de Funções Pokémon</h1>
   <p>
     Esta biblioteca oferece funções para adicionar elementos ao DOM e executar códigos de forma dinâmica. Desenvolvida por 
-    <strong>Void End the Games</strong>. Versão: <strong>1.0</strong>.
+    <strong>Void End the Games</strong>. Versão: <strong>1.1</strong>.
   </p>
   
   <h2>Funções</h2>
