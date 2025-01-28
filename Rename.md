@@ -14,7 +14,7 @@
   
 <h2> inclua a biblioteca</h2>
 <code>
-     <script src="https://github.com/MREVAN30/Pokemon.js/blob/main/Pokemon.js"></script>
+     <script src="https://github.com/MREVAN30/pokescript-/blob/main/Pokemon.js"></script>
 
 </code>
 
